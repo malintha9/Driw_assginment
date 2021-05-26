@@ -2,7 +2,7 @@
 
 ## Application Architecture
 
-![Arch diagram](./adiagram.png?raw=true "Architecture Diagram")
+![Arch diagram](./diagram.png?raw=true "Architecture Diagram")
 
 
 ### Price Engine
